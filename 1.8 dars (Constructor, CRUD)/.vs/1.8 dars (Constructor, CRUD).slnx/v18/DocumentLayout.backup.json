@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "D:\\Full-Stack\\Backend\\PDP\\FirstModule\\firstModuleLessons\\firstModule\\1.8 dars (Constructor, CRUD)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{22971E0C-CE06-4E1D-80E6-7B118566FC7C}|1.8 dars (Constructor, CRUD)\\1.8 dars (Constructor, CRUD).csproj|d:\\full-stack\\backend\\pdp\\firstmodule\\firstmodulelessons\\firstmodule\\1.8 dars (constructor, crud)\\1.8 dars (constructor, crud)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22971E0C-CE06-4E1D-80E6-7B118566FC7C}|1.8 dars (Constructor, CRUD)\\1.8 dars (Constructor, CRUD).csproj|solutionrelative:1.8 dars (constructor, crud)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C7516E3F-39D0-51E0-25FE-26F2E9583EA5}|1.8 dars (Constructor, CRUD)\\1.8 dars (Constructor, CRUD).csproj|d:\\full-stack\\backend\\pdp\\firstmodule\\firstmodulelessons\\firstmodule\\1.8 dars (constructor, crud)\\1.8 dars (constructor, crud)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7516E3F-39D0-51E0-25FE-26F2E9583EA5}|1.8 dars (Constructor, CRUD)\\1.8 dars (Constructor, CRUD).csproj|solutionrelative:1.8 dars (constructor, crud)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7516E3F-39D0-51E0-25FE-26F2E9583EA5}|1.8 dars (Constructor, CRUD)\\1.8 dars (Constructor, CRUD).csproj|d:\\full-stack\\backend\\pdp\\firstmodule\\firstmodulelessons\\firstmodule\\1.8 dars (constructor, crud)\\1.8 dars (constructor, crud)\\planet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7516E3F-39D0-51E0-25FE-26F2E9583EA5}|1.8 dars (Constructor, CRUD)\\1.8 dars (Constructor, CRUD).csproj|solutionrelative:1.8 dars (constructor, crud)\\planet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7516E3F-39D0-51E0-25FE-26F2E9583EA5}|1.8 dars (Constructor, CRUD)\\1.8 dars (Constructor, CRUD).csproj|d:\\full-stack\\backend\\pdp\\firstmodule\\firstmodulelessons\\firstmodule\\1.8 dars (constructor, crud)\\1.8 dars (constructor, crud)\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7516E3F-39D0-51E0-25FE-26F2E9583EA5}|1.8 dars (Constructor, CRUD)\\1.8 dars (Constructor, CRUD).csproj|solutionrelative:1.8 dars (constructor, crud)\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,12 +42,37 @@
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Full-Stack\\Backend\\PDP\\FirstModule\\firstModuleLessons\\firstModule\\1.8 dars (Constructor, CRUD)\\1.8 dars (Constructor, CRUD)\\Program.cs",
               "RelativeDocumentMoniker": "1.8 dars (Constructor, CRUD)\\Program.cs",
-              "ToolTip": "D:\\Full-Stack\\Backend\\PDP\\FirstModule\\firstModuleLessons\\firstModule\\1.8 dars (Constructor, CRUD)\\1.8 dars (Constructor, CRUD)\\Program.cs",
-              "RelativeToolTip": "1.8 dars (Constructor, CRUD)\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\Full-Stack\\Backend\\PDP\\FirstModule\\firstModuleLessons\\firstModule\\1.8 dars (Constructor, CRUD)\\1.8 dars (Constructor, CRUD)\\Program.cs*",
+              "RelativeToolTip": "1.8 dars (Constructor, CRUD)\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-09T16:57:31.902Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Planet.cs",
+              "DocumentMoniker": "D:\\Full-Stack\\Backend\\PDP\\FirstModule\\firstModuleLessons\\firstModule\\1.8 dars (Constructor, CRUD)\\1.8 dars (Constructor, CRUD)\\Planet.cs",
+              "RelativeDocumentMoniker": "1.8 dars (Constructor, CRUD)\\Planet.cs",
+              "ToolTip": "D:\\Full-Stack\\Backend\\PDP\\FirstModule\\firstModuleLessons\\firstModule\\1.8 dars (Constructor, CRUD)\\1.8 dars (Constructor, CRUD)\\Planet.cs",
+              "RelativeToolTip": "1.8 dars (Constructor, CRUD)\\Planet.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA3wBQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T17:39:25.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Full-Stack\\Backend\\PDP\\FirstModule\\firstModuleLessons\\firstModule\\1.8 dars (Constructor, CRUD)\\1.8 dars (Constructor, CRUD)\\Student.cs",
+              "RelativeDocumentMoniker": "1.8 dars (Constructor, CRUD)\\Student.cs",
+              "ToolTip": "D:\\Full-Stack\\Backend\\PDP\\FirstModule\\firstModuleLessons\\firstModule\\1.8 dars (Constructor, CRUD)\\1.8 dars (Constructor, CRUD)\\Student.cs",
+              "RelativeToolTip": "1.8 dars (Constructor, CRUD)\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T17:05:07.303Z"
             }
           ]
         }

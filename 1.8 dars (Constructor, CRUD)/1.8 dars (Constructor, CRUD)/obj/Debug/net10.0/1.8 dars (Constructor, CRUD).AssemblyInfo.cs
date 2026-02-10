@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("1.8 dars (Constructor, CRUD)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+82b54ffb590e79bcb070888949743e59a70d2a57")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f0f1438aec266e4c3c13422e1c25b61fdfca7058")]
 [assembly: System.Reflection.AssemblyProductAttribute("1.8 dars (Constructor, CRUD)")]
 [assembly: System.Reflection.AssemblyTitleAttribute("1.8 dars (Constructor, CRUD)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
